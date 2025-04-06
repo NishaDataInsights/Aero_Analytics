@@ -1,6 +1,3 @@
-# Dashboard Link
-https://drive.google.com/file/d/187T73prEiLPs2eln7Y3egqEf9F7emIZY/view?usp=sharing 
-
 # ✈️ Aero Analytics – Airline Profitability Prediction
 
 ## 🚀 Project Overview
@@ -45,6 +42,30 @@ Use the ML-powered predictions to make data-driven decisions.
 
 ## 🏆 Conclusion
 Our project provides an AI-driven solution for predicting airline profitability, empowering airlines to make informed financial decisions. With data analytics and machine learning, we enhance the industry's ability to adapt to market fluctuations.
+
+# Power BI : ✈️ Aero Analytics Dashboard
+
+  ---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Aero_Analytics/blob/main/Screenshot%202025-04-06%20172535.png)
+*Above: Power BI Dashboard showcasing front page and theme.*
+
+---
+
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Aero_Analytics/blob/main/Screenshot%202025-04-06%20172601.png)  
+*Above: Power BI Dashboard showcasing Second page and theme.*
+
+---
+
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Aero_Analytics/blob/main/Screenshot%202025-04-06%20172618.png)  
+*Above: Power BI Dashboard showcasing Third page and theme.*
+
+---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Aero_Analytics/blob/main/Screenshot%202025-04-06%20172641.png)  
+*Above: Power BI Dashboard showcasing fourth page and theme.*
 
 🚀 Let’s revolutionize airline profitability analysis with data!
 
